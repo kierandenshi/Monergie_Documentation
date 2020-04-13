@@ -20,7 +20,7 @@ Deployment process is already implemented on our Continuous Integration service 
 
 Additional note: when application need to be replicated to next server we need to instal puppeteer for handling PDF generating. Just run `yarn install` and puppeteer will be installed on server. 
 
-## Mobile
+## Mobile
 We can distinguish four deployment paths. For this path we assume:
 - User has dependencies installed through yarn
 - User is signed in on expo account, user: developer.monergie
