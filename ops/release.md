@@ -54,5 +54,5 @@ In root FE folder type `yarn build:production:ios` for ios build and `yarn build
  #### Android path:
 Sign in on google play developer console. In app releases, create a new release with downloaded apk file and release new version.
 
-#### Ios path:
+#### Ios path:
 Using Transporter app for mac, upload ipa file to the App Store. In https://appstoreconnect.apple.com/ create new version and add parsed build. Then release it.
